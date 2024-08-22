@@ -1,6 +1,6 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A innovator who loves exploring techonology</h3>
+<h3 align="center">An innovator who loves exploring techonology</h3>
 
 <img align="right" alt="Coding" width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzloZzF5ODBudGRqZW05bzNkazlsY3RheGpidzViNnRxcmR6cnAzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp">
 
